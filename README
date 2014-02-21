@@ -1,1 +1,13 @@
-Hello Word!!!
+Minicurso de Git ministrado por Abel e Raniere
+
+Criar o repositorio via linha de comando
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/edsondaniel9/treinamentoLPOO.git
+git push -u origin master
+
+Puxar do repositorio GIT
+git remote add origin https://github.com/edsondaniel9/treinamentoLPOO.git
+git push -u origin master
